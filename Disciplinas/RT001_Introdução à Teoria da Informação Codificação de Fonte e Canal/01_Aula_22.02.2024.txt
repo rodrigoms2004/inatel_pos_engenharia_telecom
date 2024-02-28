@@ -1,0 +1,30 @@
+Aula RT001 RT001_Introdução à Teoria da Informação Codificação de Fonte e Canal
+
+Todos os dias de 2024 voce precisa estudar
+
+Prof. Dr. Estevan Lopes
+
+
+• HAYKIN, SIMON – COMMUNICATIONS SYSTEMS. 4TH ED. JOHN WILEY & SONS 
+• SKLAR, BERNARD, DIGITAL COMMUNICATIONS: FUNDAMENTALS AND APPLICATIONS. 2 ED. NEW JERSEY: PRENTICE HALL
+https://www.mangoud.com/EENG373_files/Book-Sklar.pdf
+
+
+https://www.mangoud.com/eeng-372/
+
+
+https://www.programiz.com/dsa/huffman-coding
+
+
+Conceitos de Engenharia de Telecomunicações
+
+Código
+Teoria da informação
+Modulação Digital
+Antenas
+Propagação
+
+
+https://gis.stackexchange.com/questions/73838/how-do-you-explain-that-band-width-and-relative-spectral-response-of-modis-band
+
+slide 11, video 1:46:00
